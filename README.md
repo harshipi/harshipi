@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshipi
-- 👀 I’m interested in Mathematics, astrophysics, robotics and a lots of coding
-- 🌱 I’m currently learning Calculus, Astronomy, python and R language
+- 👀 I’m interested in Mathematics, AI, robotics and a lots of coding
+- 🌱 I’m currently learning Calculus,Linear Algebra, LLM, ML and python
 - 💞️ I’m looking to collaborate on projects where i can merge mathematics and coding OR Robotics OR some research work in mathematics 
 - 📫 How to reach me
      Gmail: harshipi19@gmail.com
